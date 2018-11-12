@@ -9,3 +9,4 @@
 ##一些相关说明
 - 使用tf.data建立pipeline
 - 图片预处理：剪切(24x24)，标准化(0-1)
+- Dataset.py进行数据处理，ops.py网络结构，trian.py网络建立及训练
